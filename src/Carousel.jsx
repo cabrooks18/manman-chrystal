@@ -1,5 +1,5 @@
 import React from 'react'
-import Carousel from 'carousel-react-rcdev'
+// import Carousel from 'carousel-react-rcdev'
 
 function Carousel() {
   return (
