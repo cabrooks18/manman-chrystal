@@ -4,8 +4,9 @@ import Nav from './Nav';
 import Cart from './Cart';
 import Menu from './Menu';
 import Footer from './Footer';
-import Calendar from './Calendar';
 import Carousel from './Carousel';
+import Calendar from './Calendar';
+
 
 
 function App() {
