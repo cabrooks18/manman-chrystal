@@ -12,4 +12,4 @@ function App() {
     </Carousel>
   )
 }
-export default App
+export default Carousel
