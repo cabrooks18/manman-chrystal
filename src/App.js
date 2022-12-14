@@ -4,7 +4,7 @@ import Nav from './Nav';
 import Cart from './Cart';
 import Menu from './Menu';
 import Footer from './Footer';
-import Carousel from './Carousel';
+
 import Calendar from './Calendar';
 
 
@@ -16,7 +16,7 @@ function App() {
       <Calendar />
       <Cart />
       <Menu />
-      <Carousel />
+    
       <Footer />
       
 
